@@ -1,5 +1,5 @@
 # NLP Assignments
-###### Master of Artificial Intelligence - Natural Language Processing
+###### Master in Artificial Intelligence - Natural Language Processing
 
 
 **Team Components**
